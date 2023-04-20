@@ -18,15 +18,15 @@ You can use the Kosha Cisco Panoptica connector to retrieve and manage:
 * Dashboard statistics
 * Environment definitions
 * Telemetry information
-* Environment and Connection policies
-* API Security policies
+* Environment and connection policies
+* API security policies
 * CI/CD policies
 * Registries
 * Kubernetes clusters
 * Image Hashes
 * Audit Logs
-* Serveless Policies
-* System Settings
+* Serverless policies
+* System settings
 
 Refer to the Panoptica connector [API specification](openapi.json) for details.
 
