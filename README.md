@@ -38,4 +38,4 @@ See the [Panoptica REST API documentation](https://panoptica.readme.io/docs/rest
 
 The REST API uses Escher authentication. This method uses a unique token for each request. The token is a hash generated from fixed Access and Secret keys (obtained from Panoptica), the request URL, and the request time.
 
-Refer to the [authentication documentation](https://panoptica.readme.io/docs/rest-api#authentication) for instructions on generating unique Access and Secret keysfrom the Panoptica console. 
+Refer to the [authentication documentation](https://panoptica.readme.io/docs/rest-api#authentication) for instructions on generating unique Access and Secret keys from the Panoptica console. 
