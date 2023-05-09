@@ -30,10 +30,6 @@ You can use the Kosha Cisco Panoptica connector to retrieve and manage:
 
 Refer to the Panoptica connector [API specification](openapi.json) for details.
 
-## Example Usage
-
-See the [Panoptica REST API documentation](https://panoptica.readme.io/docs/rest-api#intro) for details on prerequisites and usage.
-
 ## Authentication
 
 The REST API uses Escher authentication. This method uses a unique token for each request. The token is a hash generated from fixed Access and Secret keys (obtained from Panoptica), the request URL, and the request time.
