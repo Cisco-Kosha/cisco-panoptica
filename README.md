@@ -1,7 +1,5 @@
 # Kosha Cisco Panoptica Connector
 
-![panoptica](images/panoptica.png)
-
 Cisco Panoptica provides a comprehensive security solution for your entire software development lifecycle (SDLC), from development to runtime. Panoptica provides visibility and remediation for containerized applications managed by Kubernetes, serverless functions, and all your APIs.
 
 The Cisco Panoptica connector enables you to perform REST API operations from the Panoptica API in your Kosha workflow or custom application. Using the Cisco Panoptica connector, you can directly access the Panoptica platform to:
