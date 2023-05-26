@@ -33,3 +33,9 @@ Refer to the Panoptica connector [API specification](openapi.json) for details.
 The REST API uses Escher authentication. This method uses a unique token for each request. The token is a hash generated from fixed Access and Secret keys (obtained from Panoptica), the request URL, and the request time.
 
 Refer to the [authentication documentation](https://panoptica.readme.io/docs/rest-api#authentication) for instructions on generating unique Access and Secret keys from the Panoptica console. 
+
+## Kosha Connector Open Source Development
+
+All connectors Kosha shares on the marketplace are open source. We believe in fostering collaboration and open development. Everyone is welcome to contribute their ideas, improvements, and feedback for any Kosha connector. We encourage community engagement and appreciate any contributions that align with our goals of an open and collaborative API management platform.
+
+Refer to the contribution guidelines for details.
