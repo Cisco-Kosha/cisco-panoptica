@@ -4427,7 +4427,7 @@
         "tags": [
           "dashboard"
         ],
-        "summary": "Get vulnerabilities dashboard data for the given kubernetesClusterId"
+        "summary": "Get the data which populates the vulnerabilities dashboard screen."
       }
     },
     "/dashboard/{kubernetesClusterId}/connectionTelemetries": {
