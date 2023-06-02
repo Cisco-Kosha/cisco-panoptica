@@ -21,7 +21,7 @@ You can use the Kosha Cisco Panoptica connector to retrieve and manage:
 * CI/CD policies
 * Registries
 * Kubernetes clusters
-* Image Hashes
+* Image hashes
 * Audit Logs
 * Serverless policies
 * System settings
